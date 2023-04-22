@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Joao\\AndroidStudioProjects\\teste\\build\\file_picker\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Joao\\.gradle\\caches\\transforms-3\\8a2e74e3f98e846f0780ad1b6ff8554b\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joao\\AndroidStudioProjects\\teste\\build\\file_picker\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Joao\\.gradle\\caches\\transforms-3\\8a2e74e3f98e846f0780ad1b6ff8554b\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joao\\AndroidStudioProjects\\teste\\build\\file_picker\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Joao\\.gradle\\caches\\transforms-3\\8a2e74e3f98e846f0780ad1b6ff8554b\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joao\\AndroidStudioProjects\\teste\\build\\file_picker\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Joao\\.gradle\\caches\\transforms-3\\8a2e74e3f98e846f0780ad1b6ff8554b\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Joao\\AndroidStudioProjects\\teste\\build\\file_picker\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Joao\\.gradle\\caches\\transforms-3\\8a2e74e3f98e846f0780ad1b6ff8554b\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    }
+]

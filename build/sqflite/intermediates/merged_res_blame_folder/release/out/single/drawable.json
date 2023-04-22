@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Joao\\AndroidStudioProjects\\teste\\build\\sqflite\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Joao\\.gradle\\caches\\transforms-3\\8a2e74e3f98e846f0780ad1b6ff8554b\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joao\\AndroidStudioProjects\\teste\\build\\sqflite\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Joao\\.gradle\\caches\\transforms-3\\8a2e74e3f98e846f0780ad1b6ff8554b\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joao\\AndroidStudioProjects\\teste\\build\\sqflite\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Joao\\.gradle\\caches\\transforms-3\\8a2e74e3f98e846f0780ad1b6ff8554b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joao\\AndroidStudioProjects\\teste\\build\\sqflite\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Joao\\.gradle\\caches\\transforms-3\\8a2e74e3f98e846f0780ad1b6ff8554b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]
